@@ -7,6 +7,6 @@ In this project, we performed:
 
 
 ### Team
-[Renu Rani](https://github.com/techiepanda), [Anurag Arora ](https://github.com/geekyspartan)
+[Renu Rani](https://github.com/techiepanda)
 
 
