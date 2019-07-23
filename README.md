@@ -6,7 +6,6 @@ In this project, we performed:
 3. Laplacian pyramid blending
 
 
-### Team
-[Renu Rani](https://github.com/techiepanda)
+
 
 
